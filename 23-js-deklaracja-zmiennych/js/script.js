@@ -1,2 +1,2 @@
-const userName = "Anna";
-const lastName = "Parcheta";
+let firstName = "Anna";
+let lastName = "Parcheta";
