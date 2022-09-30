@@ -1,6 +1,4 @@
-const day = "28"
-const month = "9"
-const year = "2022"
-const date = ["day", "month", "year"]
-
-console.log(date)
+let day = "28"
+let month = "9"
+let year = "2022"
+let date = ["day", "month", "year"]
